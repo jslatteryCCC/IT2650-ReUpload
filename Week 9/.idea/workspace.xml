@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d17a24-1ac2-4a78-850f-2800a991ce84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Week 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign_09_Slattery/Assign_09_Slattery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probability/probability.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/Assign_08_Slattery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/Assign_08_Slattery.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/src/com/IT2650/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/src/com/IT2650/Alien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/src/com/IT2650/AlienPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/src/com/IT2650/AlienPack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_08_Slattery/src/com/IT2650/AlienTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_08_Slattery/src/com/IT2650/AlienTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/Assign_7B_Slattery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/Assign_7B_Slattery.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/CashPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/CashPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign_7B_Slattery/src/com/IT2650/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT2650/.idea/IT2650.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT2650/.idea/IT2650.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT2650/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT2650/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT2650/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT2650/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT2650/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT2650/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT2650/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT2650/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/MyCup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/MyCup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/src/com/IT2650/Cup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/src/com/IT2650/Cup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/src/com/IT2650/LogoCup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/src/com/IT2650/LogoCup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/src/com/IT2650/MusicalTravelCup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/src/com/IT2650/MusicalTravelCup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/src/com/IT2650/TestCup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/src/com/IT2650/TestCup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCup/src/com/IT2650/TravelCup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCup/src/com/IT2650/TravelCup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/Week 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/Week 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Week 1/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/Week 1/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/Week 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/Week 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/Week 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/Week 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/chap4Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/chap4Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 4/chap4Practice/src/com/IT2650/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 4/chap4Practice/src/com/IT2650/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Week 5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Week 5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/chap4Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/chap4Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/src/com/IT2650/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/src/com/IT2650/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/src/com/IT2650/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/src/com/IT2650/PizzaOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/Chap 6 practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/Chap 6 practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/Chap 6/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 6/Chap 6/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/Ch07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/Ch07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/ENHANC~2.JAV" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/ENHANC~2.JAV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/EnhancedStringTokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/EnhancedStringTokenizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/EnhancedStringTokenizerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/EnhancedStringTokenizerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/InheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/InheritanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/IsADemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/IsADemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Ch07/improved equals/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/Cup.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/Cup.ctxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/Cup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/Cup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/TestCup.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/TestCup.ctxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Cup/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Cup/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/Week 7A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/Week 7A.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/src/com/IT2650/Cup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/src/com/IT2650/Cup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7A/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7A/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Week 8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Week 8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Comedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Comedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Drama.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Drama.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Comedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Comedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Drama.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Drama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/chap4Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/chap4Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/src/com/IT2650/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/src/com/IT2650/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap4Practice/src/com/IT2650/PizzaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap4Practice/src/com/IT2650/PizzaOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/pizza.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/pizza.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/src/com/IT2650/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/src/com/IT2650/Pizza.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qUlbRPMFBKQ4UX6TAZDyWdTlbk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d17a24-1ac2-4a78-850f-2800a991ce84" name="Default Changelist" comment="" />
+      <created>1617142122801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617142122801</updated>
+      <workItem from="1618269048763" duration="467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

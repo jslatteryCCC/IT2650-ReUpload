@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assign_17_Slattery:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assign_17_Slattery_jar</output-path>
+    <root id="archive" name="Assign_17_Slattery.jar">
+      <element id="module-output" name="Assign_17_Slattery" />
+    </root>
+  </artifact>
+</component>

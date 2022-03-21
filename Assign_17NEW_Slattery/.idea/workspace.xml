@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e576c6d-0616-44e4-99a6-587d9368a11c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 11/src/DecimalConverter.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 11/src/DecimalConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/.idea/Week 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/Assign_09_Slattery/Assign_09_Slattery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 9/probability/probability.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Comedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Comedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Drama.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Drama.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/out/production/Week 8/com/IT2650/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Comedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Comedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Drama.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Drama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/src/com/IT2650/Movie.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rXyndBqVHtAZfmJ1TRpqhebK4e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week 11" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jslat\OneDrive - Cuyahoga Community College\Spring 2021\IT 2650 Java Prog\Projects\Week 11" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Assign_17NEW_Slattery" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DecimalCalc" />
+      <module name="Assign_17NEW_Slattery" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e576c6d-0616-44e4-99a6-587d9368a11c" name="Default Changelist" comment="" />
+      <created>1619136900967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619136900967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

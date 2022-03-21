@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Cup
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cup\ here.\r\n\ \r\n\ @author\ (ITMP\ 2650\ Spring\ 2020)\ \r\n\ @version\ (3/4/2020)\r\n
+comment1.params=
+comment1.target=Cup()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Cup\r\n
+comment2.params=v\ c\ m
+comment2.target=Cup(int,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cup\r\n
+comment3.params=original
+comment3.target=Cup(Cup)
+comment3.text=\r\n\ \ Copy\ constructor\ for\ the\ Cup\ class\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=v\ c\ m
+comment5.target=void\ set(int,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=int\ getVolume()
+comment6.text=\r\n\ getVolume\ method\ \r\n\r\n\ @return\ \ \ \ \ the\ volume\ of\ the\ Cup\ object\r\n
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+comment8.params=
+comment8.target=java.lang.String\ getMaterial()
+comment9.params=other
+comment9.target=boolean\ equals(Cup)
+numComments=10
